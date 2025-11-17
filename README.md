@@ -23,18 +23,6 @@ Clean, responsive single-page portfolio showcasing my professional experience in
 - **Contact Form:** Formspree
 - **Design:** Pure HTML/CSS/JS (no build process)
 
-## Local Development
-
-Preview the site locally:
-
-```bash
-# Option 1: Direct open
-open index.html
-
-# Option 2: Local server (recommended)
-python3 -m http.server 8000
-# Visit http://localhost:8000
-```
 
 ## License
 
