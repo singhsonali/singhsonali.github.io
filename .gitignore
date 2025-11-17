@@ -1,0 +1,10 @@
+# Private files - do not commit
+Sonali Singh Resume.md
+*.pdf
+*resume*
+*Resume*
+
+# Old Jekyll files
+_site/
+.sass-cache/
+.jekyll-metadata
